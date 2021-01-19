@@ -1,0 +1,16 @@
+.bg {
+    background-color: green;
+    border:1px solid grey;
+}
+
+.wrapper1 {
+    display: flex;
+    color: black;
+    text-align:center;
+}
+
+.boxcenter {
+    background-color: white;
+    color: black;
+    flex: 1 1 1000px;
+}
